@@ -1,3 +1,10 @@
+# Created TextUtils App Using React 
+
+1. Capitalize
+2. UpperCase
+3. LowerCase
+4. Replace and FInd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
